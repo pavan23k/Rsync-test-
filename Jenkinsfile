@@ -23,8 +23,7 @@ pipeline {
 						then
 						    echo "all changes are made"
 						fi
-						done
-                    """
+                    			"""
 				}
 			}
 		}
