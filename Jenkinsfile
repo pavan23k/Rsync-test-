@@ -1,5 +1,5 @@
 pipeline {
-	agent { node { label "ubuntu" } }
+	agent { node { label "master" } }
 		
 	stages {
 		stage('Deploy To DEV') {
