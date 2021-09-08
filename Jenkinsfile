@@ -24,8 +24,8 @@ pipeline {
 						    echo "all changes are made"
 						fi
                     			"""
-				}
+				 }
 			}
 		}
-    }
+	}
 }
